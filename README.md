@@ -16,12 +16,13 @@ This repository contains various academic projects I have undertaken so far, alo
 - Developed an **interactive map** of Kerala using **Folium**.  
 - Integrated **GeoJSON** for district boundaries.  
 - Visualized **rainfall trends** and **landslide severity** using **Matplotlib**.
+**[View Interactive Map](https://gisannmap.github.io/gisannprojects/project_docs/landslidemap.html)** 
 **[View Project HTML](project_docs/landslide_code.html)**  
-**[View Interactive Map](project_docs/landslidemap.html)**  
+ 
 
 ### **Land Use Change Detection – Norcia, Italy** (2023–2024)  
 - Analyzed **pre- and post-earthquake** land-use patterns after the 2016 Italy earthquake.  
 - Applied **remote sensing** and **GIS techniques** for classification.  
-**[View Project Presentation](project_docs/LanduseNorciappt.pdf)**  
+**[View Project Presentation](project_docs/LanduseNorciapptx.pdf)**  
 ---
 
