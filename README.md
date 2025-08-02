@@ -5,8 +5,7 @@ This repository contains various projects I have undertaken so far, along with t
 - Converted a subset of DOTA from **oriented bounding box (OBB)** format to **COCO format** for YOLOv8 compatibility.  
 - Trained the YOLOv8 model with **preprocessing, augmentation, and validation** steps to enhance performance.  
 - Built an **interactive Python-based interface** to visualize detection outputs.   
- ****[View Project Summary](https://gisannmap.github.io/gisannprojects/project_docs/yolosummary.html)**|  
- **[View Presentation](project_docs/YOLOPPT.pdf)****  
+ **[View Project Summary](https://gisannmap.github.io/gisannprojects/project_docs/yolosummary.html)**| **[View Presentation](project_docs/YOLOPPT.pdf)****  
 
  **Human-Elephant Conflict & Forest Fire Risk Assessment** (2022) 
 - Applied **Frequency Ratio** & **Weighted Overlay** GIS modeling.  
